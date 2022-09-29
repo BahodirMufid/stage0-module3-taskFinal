@@ -7,7 +7,7 @@ public class DivisionByZero {
             System.out.println(number / 0);
         }
         catch (ArithmeticException e) {
-            System.out.println("Divided by zero operation cannot possible");
+            System.out.println("Infinity");
         }
     }
 }
